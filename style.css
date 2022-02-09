@@ -1,0 +1,66 @@
+body {
+    background-image: radial-gradient(circle, #2c0537, #5a014b, #8c0055, #be0055, #eb124c);
+}
+
+.rounded {
+    border-radius: 50%;
+}
+
+.logo {
+    border: 1px solid #000000;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(/cgd.png);
+    background-size: cover;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 5px;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+    border: #000000;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+.squaregame {
+    margin: 0 auto;
+    display: block;
+    border: 1px solid #000000;
+    background: url("/games/squaregame/icon.jpg") center;
+    background-size: contain;
+}
+
+.text {
+    font-size: larger;
+    font-family: sans-serif;
+    color: #ffb7ca;
+}
+
+.centered {
+    text-align: center;
+}
+
+.offset {
+    padding-top: 25px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0fr, 1fr));
+    grid-template-rows: repeat(1, 15px);
+}
