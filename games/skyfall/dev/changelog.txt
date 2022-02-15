@@ -1,3 +1,17 @@
-alpha-1.0.0
+alpha-1.0.1
 
-- The game
+M = MAJOR
+MI = MINOR
+B = BUG FIX
+
+- M: Added trajectory path to your drag line
+- M: Added new enemies:
+
+- Black Hole: sucks you in, if you reach the center you die
+- Zerolizer: resets your velocity, sets your health to zero, and sends you straight down.
+- Arrow: Sends you in the direction of the arrow
+- Teleporter: Teleports you to a random location in the current section
+
+- MI: Added about button
+- MI: Changed changelog text from white to yellow
+- B: Circles rotation not slowing down in slow motion
