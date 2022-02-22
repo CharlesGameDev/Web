@@ -1,16 +1,6 @@
-alpha-1.0.3
+alpha-1.0.4
 
-CHANGED: Switched the dialogue progression button to spacebar
-CHANGED: Increased Black Hole radius
-CHANGED: Teleporters no longer reset your velocity on entry
+haha I forgot to document this but
+customization and shop xd
 
-ADDED: The spinning platform in the Satan Chamber now gives a little knockback after hitting it.
-ADDED: The floating triangle bois now chase you when you get near enough to them.
-ADDED: 3-5 white dots in the red area so you don’t run out of energy while maneuvering through the place.
-ADDED: DIALOGUE SFX
-ADDED: Rotating platforms on the way down to the boss fight
-ADDED: Satan phase 2 and 3
-
-FIXED: SATAN CHAMBER ROOFS NOT KILLING YOU
-FIXED: POST-PROCESSING NOT SHOWING IN-GAME
-FIXED: GETTING BOXED LIKE A FLOPPER
+you can't get money yet tho so the shop is kinda pointless
